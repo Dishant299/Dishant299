@@ -56,8 +56,8 @@ I'm open to collaborating on:
 
 Feel free to reach out for collaboration, questions, or ideas:
 
-- 📧 [Email](dishantp299@gmail.com)  
-- 💼 [LinkedIn](linkedin.com/in/dishant-patel-667940373)  
+- 📧 [Email] dishantp299@gmail.com  
+- 💼 [LinkedIn] linkedin.com/in/dishant-patel-667940373
   
 ---
 
