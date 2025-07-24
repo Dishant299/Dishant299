@@ -61,14 +61,6 @@ Feel free to reach out for collaboration, questions, or ideas:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishantpatel&show_icons=true&theme=radical" alt="Dishant's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishantpatel&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 🚀 Let’s create something amazing together!
 
